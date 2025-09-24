@@ -1,1 +1,2 @@
 merged_trader_sentiment.csv filter=lfs diff=lfs merge=lfs -text
+https://github.com/BharathReddy51/Trader_Behaviour_Sentiment_Analysis/blob/main/csv_files/historical_data.csv filter=lfs diff=lfs merge=lfs -text
