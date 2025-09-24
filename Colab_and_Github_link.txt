@@ -1,2 +1,2 @@
 Colab link: https://colab.research.google.com/drive/1aOgyhcfOdpHW-6La0LIL1Wcjubl8EHKu?usp=sharing
-Github link: https://github.com/BharathReddy51/Trader_Behaviour_Sentiment_Analysis
+Github link: https://github.com/BharathReddy51/ds_Gudala_Bharath_Reddy
